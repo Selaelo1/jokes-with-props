@@ -15,11 +15,6 @@ export default function App() {
 }
 
 // <Joke 
-//     setup="How did the hacker escape the police?" 
-//     punchline="He just ransomware!"
-//     isPun={true}
-// />
-// <Joke 
 //     setup="Why don't pirates travel on mountain roads?" 
 //     punchline="Scurvy." 
 //     isPun={true}
