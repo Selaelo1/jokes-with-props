@@ -14,10 +14,3 @@ export default function App() {
   )
 }
 
-
-
-// <Joke 
-//     setup="What's the best thing about Switzerland?" 
-//     punchline="I don't know, but the flag is a big plus!" 
-//     isPun={false}
-// />
