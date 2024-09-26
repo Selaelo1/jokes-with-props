@@ -14,11 +14,7 @@ export default function App() {
   )
 }
 
-// <Joke 
-//     setup="Why don't pirates travel on mountain roads?" 
-//     punchline="Scurvy." 
-//     isPun={true}
-// />
+
 // <Joke 
 //     setup="Why do bees stay in the hive in the winter?" 
 //     punchline="Swarm." 
